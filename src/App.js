@@ -37,6 +37,7 @@ const {setCurrentUser} = this.props;
     }
 
     setCurrentUser(userAuth);
+    
   });
 }
 
